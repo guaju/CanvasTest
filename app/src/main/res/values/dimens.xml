@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clockWidth">1dp</dimen>
+    <dimen name="degree">2dp</dimen>
+    <dimen name="degreeLength">20dp</dimen>
+    <dimen name="degreeLength2">50dp</dimen>
+    <dimen name="textsize">14sp</dimen>
+    <dimen name="textWidth">0.5dp</dimen>
+    <dimen name="degreeRadius">10dp</dimen>
+    <dimen name="hourLength">60dp</dimen>
+    <dimen name="miniteLength">90dp</dimen>
+    <dimen name="secondLength">120dp</dimen>
+
+</resources>
