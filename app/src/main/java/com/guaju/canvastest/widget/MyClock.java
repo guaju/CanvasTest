@@ -181,7 +181,7 @@ public class MyClock extends View {
                 timePaint
         );
 
-
+        
 
         canvas.drawCircle(MeasureScreenUtil.getScreenWidth() / 2,
                 MeasureScreenUtil.getScreenHeight() / 2,

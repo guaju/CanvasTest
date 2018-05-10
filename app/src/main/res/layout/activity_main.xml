@@ -6,8 +6,13 @@
     android:layout_height="match_parent"
     tools:context="com.guaju.canvastest.MainActivity">
 
-    <com.guaju.canvastest.widget.MyClock
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+    <!--<com.guaju.canvastest.widget.MyClock-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+   <com.guaju.canvastest.widget.MyCanvas
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       ></com.guaju.canvastest.widget.MyCanvas>
+    
 
 </LinearLayout>
